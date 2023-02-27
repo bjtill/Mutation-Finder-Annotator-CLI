@@ -17,10 +17,10 @@ INSTALLATION:
 Note: A GUI version of this tool exists. You may want to try it first. https://github.com/bjtill/Mutation-Finder-Annotator-GUI
 
 Linux/Ubuntu:
-Download and uncompress the SppEff package. All other tools can be installed in the Linux command line by typing the name of the tool. Either version information if already installed, or installation instructions if not installed. Download the .sh file from this page and provide it permission to execute using chmod +x .
+Download and uncompress the SnpEff package. All other tools can be installed in the Linux command line by typing the name of the tool. Either version information if already installed, or installation instructions if not installed. Download the .sh file from this page and provide it permission to execute using chmod +x .
 
 Mac: 
-Download and uncompress the SppEff package. Install homebrew from the terminal window. Next, install other tools using brew install from the terminal (for example brew install bcftools). The tools are: bcftools and datamash. Also install Java JDK.
+Download and uncompress the SnpEff package. Install homebrew from the terminal window. Next, install other tools using brew install from the terminal (for example brew install bcftools). The tools are: bcftools and datamash. Also install Java JDK.
 
 Windows: 
 NOT TESTED In theory you can install Linux bash shell on Windows (https://itsfoss.com/install-bash-on-windows/) and install the dependencies from the command line (except for SnpEff and SnpSift). If you try this and it works, please let me know. I don't have a Windows machine for testing.
